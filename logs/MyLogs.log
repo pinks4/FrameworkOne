@@ -1,0 +1,4 @@
+[ERROR] 2021-10-08 17:39:42.445 [main] Log4jDemo - this is an error message
+[INFO ] 2021-10-08 17:39:42.455 [main] Log4jDemo - Just another message!
+[WARN ] 2021-10-08 17:39:42.455 [main] Log4jDemo - warn message
+[INFO ] 2021-10-08 23:41:30.917 [main] TestNGDemo - Initial logging: Browser has started
